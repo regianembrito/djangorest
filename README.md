@@ -3,4 +3,5 @@ Este é um projeto para aprendizado. <br />Trata-se de uma API de lista de taref
 <br />Para isso foi usado o Django Rest Framework.<br /><br />
 <img src="https://github.com/regianembrito/djangorest/blob/main/prints/TodoInstance.png"><br /><br />
 <img src="https://github.com/regianembrito/djangorest/blob/main/prints/TodoInstanceEdit.png"><br /><br />
+<img src="https://github.com/regianembrito/djangorest/blob/main/prints/TodoListAll.png"><br /><br />
 
